@@ -58,7 +58,7 @@ body {
 /* Aqui temos dois exemplos de seletores para lembrá-lo de como 
 configurar estilos para elementos*/
 .header__square {
-  height: 568px;
+  height: 56evn8px;
   width: 568px;
   background-image: url(../images/square.png);
   background-size: cover;
@@ -77,8 +77,8 @@ configurar estilos para elementos*/
   min-width: 784px;
   margin-top: 100px;
 }
-.two-columns__main-text {
-}
+/* .two-columns__main-text {
+} */
 .two-columns__brief {
   line-height: 1.2;
   font-size: 18px;
